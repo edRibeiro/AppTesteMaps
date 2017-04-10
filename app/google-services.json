@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "965100548421",
+    "firebase_url": "https://testeapptcc-2d413.firebaseio.com",
+    "project_id": "testeapptcc-2d413",
+    "storage_bucket": "testeapptcc-2d413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965100548421:android:61dab69351905234",
+        "android_client_info": {
+          "package_name": "com.example.amd_fx.testeapptcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965100548421-cusgiimrlrnbhe89o30d9vubbde9k0nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmjJQUo21cDtdsii3MPArmcZ48AprPh68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

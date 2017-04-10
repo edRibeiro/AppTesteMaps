@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TesteAppTcc</string>
+    <string name="title_activity_mapa_focos_registrados">Depositos Localizados</string>
+    <string name="title_activity_mostrar_depositos">MostrarDepositos</string>
+</resources>
